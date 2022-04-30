@@ -24,6 +24,9 @@ text-align: center;
 margin: 0 1.5rem;
 padding-bottom:1em;
 }
+.qr{
+    size: 15em; ;
+}
 
 h1{
     font-size:1.2rem;
