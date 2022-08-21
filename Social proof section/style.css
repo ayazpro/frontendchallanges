@@ -50,10 +50,10 @@ header{
     max-width: 70%;
 }
 
-.review_bar_main{
+/* .review_bar_main{
 display: flex;
 flex-basis: 50%
-}
+} */
 
 .reviews_bars{
     display: flex;
